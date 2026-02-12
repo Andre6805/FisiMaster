@@ -1,0 +1,7 @@
+{
+  "name": "FISI-Lernbegleiter",
+  "description": "Eine interaktive Lern-App für Fachinformatiker Systemintegration. Beinhaltet alle Lernfelder mit KI-generierten Zusammenfassungen, Quizzes und einem persönlichen KI-Tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
